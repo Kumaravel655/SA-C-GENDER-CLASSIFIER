@@ -2,13 +2,13 @@
 # Algorithm
 1.Import necessary packages.
 
-2.Read the dataset and normalize the data.
+2.Read the image and identify  the face in image using opencv.
 
 3.Form the CNN model using the necessary layers and filters.
 
-4.Train the model and save in the caffemodel form.
+4.Train the model and save in the caffemodel format.
 
-5.Evalute the model using the prototext.
+5.convert the caffemodel to  create the prototext(prototype machine learning model).
 
 6.Test the model upon various humans images.
 

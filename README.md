@@ -1,10 +1,15 @@
 # SA-C-GENDER-CLASSIFIER
 # Algorithm
 1.Import necessary packages.
+
 2.Read the dataset and normalize the data.
+
 3.Form the CNN model using the necessary layers and filters.
+
 4.Train the model and save in the caffemodel form.
+
 5.Evalute the model using the prototext.
+
 6.Test the model upon various humans images.
 
 ## Program:

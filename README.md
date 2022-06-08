@@ -24,7 +24,7 @@ RegisterNumber :  212220230027
 ## OUTPUT:
 
 1. CODE :
-```
+```python
 
 import cv2
 import math

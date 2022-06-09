@@ -95,8 +95,7 @@ while cv2.waitKey(1)<0 :
 ![Screenshot (160)](https://user-images.githubusercontent.com/75235334/172531969-3eeb4dcd-0123-424d-9a30-ebb8a0b2c97a.png)
 
 
-2. DEMO VIDEO YOUTUBE LINK:
-
+ 
 
 
 

@@ -98,6 +98,6 @@ while cv2.waitKey(1)<0 :
 2. DEMO VIDEO YOUTUBE LINK:
 
 
-https://youtu.be/enRnj8orlPU
+
 
 
